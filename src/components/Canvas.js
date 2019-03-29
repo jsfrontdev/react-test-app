@@ -127,7 +127,7 @@ class Canvas extends Component{
                 this.buildCanvas();
             }
         } else{
-            alert('Sorry , but you use to old shit! Try install some new browsers!!!');
+            alert('Error, try using the latest version of your browser!');
         }
 
     }
