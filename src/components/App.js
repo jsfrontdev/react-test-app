@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Canvas from './canvas';
+import Canvas from './Canvas';
 import PageLoader from './PageLoader';
 
 class App extends Component{
